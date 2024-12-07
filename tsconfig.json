@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx", // or "react" if you're using React 17 or older
+    "strict": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,   
+     "moduleResolution": "node",
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
